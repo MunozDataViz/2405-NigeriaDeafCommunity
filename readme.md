@@ -11,18 +11,20 @@ In November 2023, the institute conducted its pilot research in Nigeria, utilizi
 
 
 ## Data Model
-The project utilizes survey data from 231 deaf individuals in Nigeria, featuring over 100 questions across various life domains. These domains include basic needs, communication, community, health, occupation, and safety. The dataset also includes metadata about the questions and the Likert scales used. You can access the production dataset using the following [link](data/)
+The project utilizes survey data from 231 deaf individuals in Nigeria, featuring over 100 questions across various life domains. These domains include basic needs, communication, community, health, occupation, and safety. The dataset also includes metadata about the questions and the Likert scales used.
 
 ![Data Model](diagrams/DataModel.png)
 
 ## Pipeline
 The analysis pipeline consists of several stages:
 
-- **Data Acquisition:** Survey results data were obtained from the VizForSocialGood project [link.](https://www.vizforsocialgood.com/join-a-project/2024/global-deaf-research-institute), shared by the Global Deaf Research Institute.
+- **Data Acquisition:** Survey results data were obtained from the VizForSocialGood project [page](https://www.vizforsocialgood.com/join-a-project/2024/global-deaf-research-institute), shared by the Global Deaf Research Institute.
 - **Data Preparation:** The dataset was cleaned, and demographic fields were renamed.
 - **Data Transformation:** The table's structure was reshaped, with all questions moved from single columns to individual columns, and corresponding answers placed in separate columns. You can access the script in the following [link](scripts/reshape_data.py).
 - **Likert Scale Integration:** Numeric values were assigned to the Likert scale answers.
 - **Dashboard Design:** The dashboard was developed using Tableau Public.
+
+You can access the production dataset using the following [link](data/)
 
 ![Pipeline](diagrams/Pipeline.png)
 
