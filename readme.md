@@ -11,7 +11,7 @@ In November 2023, the institute conducted its pilot research in Nigeria, utilizi
 
 
 ## Data Model
-The project utilizes survey data collected from 231 deaf individuals in Nigeria, featuring over 100 questions across various life domains. These domains include basic needs, communication, community, health, occupation, and safety. The dataset also includes metadata about the questions and the Likert scales used.
+The project utilizes survey data from 231 deaf individuals in Nigeria, featuring over 100 questions across various life domains. These domains include basic needs, communication, community, health, occupation, and safety. The dataset also includes metadata about the questions and the Likert scales used. You can access the production dataset using the following [link](data/01_production/NigeriaDeafCommunity.xlsx)
 
 ![Data Model](diagrams/DataModel.png)
 
