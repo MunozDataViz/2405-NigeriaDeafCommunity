@@ -15,7 +15,8 @@ The project utilizes survey data from 231 deaf individuals in Nigeria, featuring
 
 ![Data Model](diagrams/DataModel.png)
 
-![Domains](diagrams/QuestionsMindMap.png)
+### Question Domains
+![Domains](diagrams/QuestionsMindmap.png)
 
 ## Pipeline
 The analysis pipeline consists of several stages:
