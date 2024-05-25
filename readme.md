@@ -32,7 +32,7 @@ You can access the production dataset using the following [link](data/)
 ![Pipeline](diagrams/Pipeline.png)
 
 ## Dashboard Design Process
-The design of the interactive dashboards follows a structured process:
+The design of the interactive report follows a structured process:
 
 - **Requirements Gathering:** Stakeholder requirements were gathered to understand their needs and objectives.
 - **Sketching:** Initial concepts were sketched to visualize the layout and functionality of the final visualization.
