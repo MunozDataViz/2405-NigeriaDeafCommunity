@@ -15,7 +15,8 @@ The project utilizes survey data from 231 deaf individuals in Nigeria, featuring
 
 ![Data Model](diagrams/DataModel.png)
 
-![Domains](diagrams/QuestionsMindMap.png)
+### Question Domains
+![Domains](diagrams/QuestionsMindmap.png)
 
 ## Pipeline
 The analysis pipeline consists of several stages:
@@ -31,7 +32,7 @@ You can access the production dataset using the following [link](data/)
 ![Pipeline](diagrams/Pipeline.png)
 
 ## Dashboard Design Process
-The design of the interactive dashboards follows a structured process:
+The design of the interactive report follows a structured process:
 
 - **Requirements Gathering:** Stakeholder requirements were gathered to understand their needs and objectives.
 - **Sketching:** Initial concepts were sketched to visualize the layout and functionality of the final visualization.
